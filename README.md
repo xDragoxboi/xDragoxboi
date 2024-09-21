@@ -5,7 +5,6 @@
 
 - working on (nothing major): **[Abandoned]**
 
-- 🤝 I’m looking for help with **Game development, design and simulation programming.**
 
 
 <p align="left">
