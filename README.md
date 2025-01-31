@@ -2,8 +2,9 @@
 <h3 align="center">A Hobbyist Developer, interested in just about everything relevent to computers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragox&label=Profile%20views&color=0e75b6&style=flat" alt="xdragox" /> </p>
-
-- working on (nothing major): **[Abandoned]**
+- 2023: working on : niche simulators
+- 2024: working on (nothing major): **[Abandoned]**
+- 2025: working on : learning ML
 
 
 
