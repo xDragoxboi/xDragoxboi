@@ -7,7 +7,9 @@
 
 - 2024: working on (nothing major): **[Abandoned]**
 
-- 2025: working on : learning ML
+- 2025 (Q1): working on : learning ML ✓
+
+- 2025: working on : DevNet
 
 
 
