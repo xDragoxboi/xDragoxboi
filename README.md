@@ -9,7 +9,7 @@
 
 - 2025 (Q1): working on : learning ML ✓
 
-- 2025: working on : DevNet
+- 2025: working on : DevNet (leading) , easyjsonDB (helping)
 
 
 
