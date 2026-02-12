@@ -11,6 +11,7 @@
 
 - 2025: working on : suffering less...
 
+- **2026:** Full-Stack Online Store (i was bored) – full-stack development, admin panel, CRUD operations, API security, the Cloudflare ecosystem, databases, OTP integrations, some cyber security.
 
 
 <p align="left">
