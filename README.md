@@ -26,3 +26,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdragoxboi&langs_count=8)
 duh
+
+
+
+
+## Contacts: 
+
+discord: drago.py
