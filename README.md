@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragox&label=Profile%20views&color=0e75b6&style=flat" alt="xdragox" /> </p>
 
-- 2023: working on : niche simulators
+- 2023: : niche simulators
 
-- 2024: working on (nothing major): **[Abandoned]**
+- 2024: [Redacted] : **[Abandoned]**
 
-- 2025 (Q1): working on : learning ML ✓
+- 2025 (Q1,Q2): learning ML ✓
 
 - 2025: working on : suffering less...
 
 - **2026:** worked on and finished: Full-Stack Online Store (i was bored) – full-stack development, admin panel, CRUD operations, API security, the Cloudflare ecosystem, databases, OTP integrations, some cyber security.
 
+- **2026 (Episode 2):** Cyber Security but better
 
+  
 <p align="left">
 </p>
 
