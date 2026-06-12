@@ -1,4 +1,4 @@
-<h1 align="center">Hola, me called Drago</h1>
+<h1 align="center">Hey there, it's Drago (yes its a cover-up)</h1>
 <h3 align="center">A Hobbyist Developer, interested in just about everything relevent to computers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragox&label=Profile%20views&color=0e75b6&style=flat" alt="xdragox" /> </p>
@@ -13,7 +13,7 @@
 
 - **2026:** worked on and finished: Full-Stack Online Store (i was bored) – full-stack development, admin panel, CRUD operations, API security, the Cloudflare ecosystem, databases, OTP integrations, some cyber security.
 
-- **2026 (Episode 2):** Cyber Security but better
+- **2026 (Episode 2):** Cyber Security but better, Data science
 
   
 <p align="left">
