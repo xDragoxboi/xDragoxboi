@@ -1,5 +1,3 @@
-<h1 align="center">Hey there, it's Drago (yes its a cover-up)</h1>
-<h3 align="center">A Hobbyist Developer, interested in just about everything relevent to computers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragox&label=Profile%20views&color=0e75b6&style=flat" alt="xdragox" /> </p>
 
